@@ -1,0 +1,54 @@
+.button__primary {
+    background-color: #2231AA;
+    padding: 16px 32px;
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    border: none;
+    border-radius: 1px;
+}
+
+.button__secondary {
+    background-color: #E8E8E8;
+    padding: 16px 32px;
+    color: #313037;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    border: none;
+}
+
+.button__secondary-2 {
+    background-color: transparent;
+    padding: 16px 32px;
+    color: #FD3419;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    border: none;
+}
+
+.button__mark {
+    background-color: #E8E8E8;
+    padding: 16px 32px;
+    color: #313037;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    border: none;
+    border-radius: 2px;
+    display: inline-flex;
+    align-items: center;
+    .icon__mark {
+        margin-right: 14px;
+    }
+}
+
+.button__icon {
+    background-color: #E8E8E8;
+    padding: 16px 32px;
+    color: #313037;
+    border: none;
+    border-radius: 2px;
+}
